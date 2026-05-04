@@ -1,0 +1,11 @@
+{
+  "name": "transliteration-testing",
+  "version": "1.0.0",
+  "description": "Playwright automation for Sinhala transliteration testing",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}
